@@ -1,8 +1,8 @@
 Hello there
 
 
-hi: * -> for stash
-haha: * ->
-huhu
+|-|i: * -> for stash
+|-|aha: * ->
+|-|uhu
 * is added in master wi6 for cr1 -> is added
 
